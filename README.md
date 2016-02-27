@@ -1,2 +1,4 @@
 # hello-world
-hello-world repo for freecodecamp
+Hello world,
+   Shalini here. I like ruby and rails. 
+   I also cold showers and mangoes.
